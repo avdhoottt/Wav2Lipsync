@@ -49,6 +49,19 @@ This project combines several key components:
 
 4. **Face Detection**: Using the S3FD face detector to locate and track faces in the input video.
 
+## Important
+
+Make sure you edit the `requirements.txt` of the Wav2Lip repo and replace the content with this:
+
+```pseudo
+librosa==0.9.1
+numpy
+torch
+torchvision
+tqdm
+numba
+```
+
 ## How It Works
 
 1. The input face video is processed to extract frames.
