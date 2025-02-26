@@ -18,6 +18,16 @@ The final video shows a face speaking the following script with synchronized lip
 
 [Wav2Lip + GAN Demo](https://www.youtube.com/watch?v=KfXImErd8rE)
 
+## Results with another Image
+
+### Wav2Lip Model
+
+[Wav2Lip Demo](https://youtu.be/MDqEf_EECzo)
+
+### Wav2Lip + GAN Model
+
+[Wav2Lip + GAN Demo](https://youtu.be/G5ThlkRGGyE)
+
 ## Project Structure
 
 ```
