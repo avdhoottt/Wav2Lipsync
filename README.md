@@ -22,7 +22,7 @@ The final video shows a face speaking the following script with synchronized lip
 
 ### Wav2Lip Model
 
-[Wav2Lip Demo](https://youtu.be/MDqEf_EECzo)
+[Wav2Lip Demo](https://youtu.be/UraVTaKDsm4)
 
 ### Wav2Lip + GAN Model
 
