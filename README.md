@@ -16,7 +16,7 @@ The final video shows a face speaking the following script with synchronized lip
 
 ### Wav2Lip + GAN Model
 
-[![Wav2Lip Demo](https://img.youtube.com/vi/v=KfXImErd8rE/0.jpg)](https://www.youtube.com/watch?v=KfXImErd8rE)
+[![Wav2Lip + GAN Demo](https://img.youtube.com/vi/v=MDqEf_EECzo/0.jpg)](https://youtu.be/MDqEf_EECzo)
 
 ## Project Structure
 
